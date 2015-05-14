@@ -3,19 +3,13 @@ body {
 }
 
 .title {
-	color: blue;
-	font-size: 3em;
+	margin-top: 100px;
+	font-size: 200%;
 }
 
 .subtitle{
-	font-size: 2em;
+	font-size: 150%;
 	font-style: italic;
-}
-
-.background {
-	background-repeat: no-repeat;
-    background-position: center;
-    height: 300px;
 }
 
 .profile-image {
@@ -26,24 +20,23 @@ body {
 
 .nav-bar {
 	margin-top: 20px;
-	height: 80px;
 	color: white;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	background-color: #383838;
 	text-align: center;
-	padding: 18px 0;
+	padding: 1em;
 }
 
 .tab {
 }
 
 .tab a {
+	font-size: 150%;
 	color: white;
 }
 
 .about{
-	font-size: 40px;
 	margin-top: 40px;
 	font-weight: bolder;
 	text-align: center;
